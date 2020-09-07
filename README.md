@@ -6,4 +6,4 @@ Bash script that generates HackTheBox invite codes.
 [jq](https://github.com/stedolan/jq)
 
 
-Don't use this to cheat the registration process, this is only for documentation purposes only.
+Don't use this to cheat the registration process, this is for documentation purposes only.
